@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Abonte's GitHub stats](https://github-readme-stats.vercel.app/api?username=abonte)](https://github.com/abonte)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abonte&layout=compact)](https://github.com/abonte)
